@@ -340,3 +340,5 @@ To present the application smoothly to professors or external examiners:
 ## 10. Educational Disclaimer
 
 This project was engineered as an **educational minor project for B.Tech CSE (AI & ML)**. The predictive machine-learning regression models and rule-based insights are designed for academic evaluation, research, and personal habit tracking, not for professional investment, legal, or financial advice.
+#   A l - P o w e r e d - P e r s o n a l - F i n a n c e - M a n a g e m e n t - a n d - E x p e n s e - P r e d i c t i o n - S y s t e m  
+ 
